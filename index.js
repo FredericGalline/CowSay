@@ -1,0 +1,1 @@
+const vache = require("./information");
